@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shimamura-Akira
 - Nice to meet you on Github!
 - Interested in programming.
+- Want to be human.
 - Good morning. In case I don't see you, good afternoon, good evening, and good night.
 
 <!---
